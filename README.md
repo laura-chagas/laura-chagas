@@ -12,4 +12,3 @@
   <img align="center" alt="Lau-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
   
-   ![Snake animation](https://github.com/laura-chagas/laura-chagas/blob/output/github-contribution-grid-snake.svg)
