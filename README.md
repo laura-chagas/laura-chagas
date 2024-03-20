@@ -1,39 +1,14 @@
- <div> 
-   <h1> 
-    Hello, I'm Laura!
-- 😄 my pronouns: SHE/HER
-   </h1>
-<br>
-   
- <h2>Talk to me: </h2>
- <a href="https://www.linkedin.com/in/lauraxch/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=085B2E&&height=120&section=header"/>
 
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48E300&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!+I'm+Laura+Chagas🌞!!;Welcome+to+my+github!;Talk+to+me+on+Linkedin!+'lauraxch'+:%29)](https://git.io/typing-svg)
 
- <h2>My Github Stats: </h2>
- 
 <div align="center">
-  <a href="https://github.com/laura-chagas">
-    <img src="https://github-readme-stats.vercel.app/api?username=laura-chagas&show_icons=true&theme=dracula#gh-dracula-mode-only)](https://github.com/laura-chagas/github-readme-stats#gh-dracula-mode-only"/_>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laura-chagas&show_icons=true&theme=dracula#gh-dracula-mode-only)](https://github.com/laura-chagas/github-readme-stats"/_>
-
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=laura-chagas&show_icons=true&count_private=true&hide_border=true&title_color=532E1C&icon_color=9EF01A&text_color=007200&bg_color=000000" alt="Laura github stats :p" /> 
+	<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laura-chagas&layout=compact&hide_border=true&title_color=532E1C&text_color=007200&bg_color=000000" />
 </div>
 
-  ##
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=laura-chagas&bg_color=000000&color=007200&line=532E1C&point=9EF01A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-   <h2>Technologies: </h2>
-  
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-    
-  
-  ##
-  
- 
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=laura-chagas&theme=kimbie_dark" /></p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4E3019&&height=120&section=footer"/>
 
